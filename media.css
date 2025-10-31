@@ -1,0 +1,48 @@
+@media (min-width: 1400px) {
+
+    .container, .container-md, .container-sm {
+        max-width: 1170px;
+    }
+}
+@media only screen and (min-width:200px) and (max-width:575px){
+  
+    .card{
+        width: 15rem;
+        margin-left: 50px;
+    }
+       
+    .section{
+  
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+
+    .icon{
+        margin-left: 10px;
+    }
+    .card2{
+       
+        margin-left: 20px;
+       
+        }
+    }
+
+@media  (min-width:700px) and (max-width:1130px){
+  
+    .card{
+        width: 15rem;
+        margin-left: 50px;
+    }
+    .section{
+  
+        margin-top: 30px;
+        margin-left: 130px;
+    }
+    .icon{
+        margin-left: 10px;
+    }
+
+             
+        }
+    
+ 
